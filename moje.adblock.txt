@@ -1,0 +1,14 @@
+@@http://lb/
+@@http://livebox/
+adclick
+http://isohunt.com/a/banners/
+http://www.tnp.net.pl/js/snowstorm.js
+raklama
+reklamy
+hit.stat24.com
+gemius.pl
+!ads
+!adone
+!adocean
+*banner*=http*
+http://openx.xenium.pl/www/images/*.gif|
